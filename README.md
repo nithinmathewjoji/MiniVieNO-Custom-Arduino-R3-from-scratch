@@ -2,6 +2,17 @@
 
 # Mission Custom Arduino Uno (MiniVieNO)
 
+<h3 align="left">🔎 Visitor Count :</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nithinmathewjoji/count.svg?"  />
+</div>
+
+###
+
+
 ## Overview
 
 Welcome to the **Mission Custom Arduino Uno (MiniVieNO)** project! This repository contains all the necessary resources, code, and documentation to create a customized version of the Arduino Uno tailored for specific applications. This project is ideal for enthusiasts, hobbyists, and professionals looking to expand the capabilities of their standard Arduino Uno boards.
