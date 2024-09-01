@@ -53,6 +53,7 @@ Open the provided schematics and PCB layout files using your preferred EDA tool 
 Order Components:
 
 Refer to the BOM and order the necessary components for assembly.
+ibom file link : [click to view ibom file](https://nithinmathewjoji.github.io/MiniVieNO-Custom-Arduino-R3-from-scratch/)
 
 4. **Assemble the Custom Board**:
 
