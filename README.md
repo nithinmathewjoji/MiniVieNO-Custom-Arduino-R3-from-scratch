@@ -68,8 +68,9 @@ Check out the Examples directory to see various applications and get inspiration
 We welcome contributions from the community! If you have suggestions for improvements, new features, or bug fixes, feel free to fork the repository and submit a pull request. Please review our contribution guidelines in the Documentation directory before contributing.
 
 8. **PCB final image (front side)**:
-   ![board 2](https://github.com/user-attachments/assets/7e08c409-10b8-458e-a5c3-56f6b68d2042)
-9. **PCB final image (back side)**:
+   <img src="![board 2](https://github.com/user-attachments/assets/7e08c409-10b8-458e-a5c3-56f6b68d2042)" width="200" />
+   
+10. **PCB final image (back side)**:
     ![board 1](https://github.com/user-attachments/assets/0e2b6026-f538-423f-9b5f-25d7c73a2dcf)
    
 
