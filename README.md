@@ -82,10 +82,10 @@ We welcome contributions from the community! If you have suggestions for improve
   ![SmartSelect_20240930_162237_Instagram](https://github.com/user-attachments/assets/1e5fb3a0-9b91-473b-bccd-f4d021da807f)
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contact
+## Contact
 For any questions, suggestions, or feedback, please open an issue on GitHub or contact us directly at nithinmathewjoji@gmail.com.
 
 ## Thank you for your interest in the Mission Custom Arduino Uno (MiniVieNO) project! Happy hacking!
