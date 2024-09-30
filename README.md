@@ -83,7 +83,7 @@ We welcome contributions from the community! If you have suggestions for improve
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions, suggestions, or feedback, please open an issue on GitHub or contact us directly at nithinmathewjoji@gmail.com.
