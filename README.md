@@ -72,7 +72,15 @@ We welcome contributions from the community! If you have suggestions for improve
    
 9. **PCB final image (back side)**:
     ![board 1](https://github.com/user-attachments/assets/0e2b6026-f538-423f-9b5f-25d7c73a2dcf)
-   
+10. **PCB in hand (front side)**:
+    ![20240930_154729](https://github.com/user-attachments/assets/7f3f29ad-3067-4b32-827d-bde7c7d9693b)
+
+11. **PCB in hand (back side)**:  
+   ![20240930_154741](https://github.com/user-attachments/assets/170676e3-4b80-4a26-8ef1-cfff1c3cb02f)
+
+12.**MiniVieNO (Proud Moment)**:
+  ![SmartSelect_20240930_162237_Instagram](https://github.com/user-attachments/assets/1e5fb3a0-9b91-473b-bccd-f4d021da807f)
+
 
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
