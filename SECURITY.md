@@ -11,5 +11,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability create an [issue](ISSUE) and post it there 
+To report a vulnerability create an [issue](ISSUES) and post it there 
 also make a discussion in community discussion for wide visibility 
